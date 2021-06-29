@@ -9,6 +9,10 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Button Content="Login" Height="102" Margin="0,786,0,0" VerticalAlignment="Top" Width="318" HorizontalAlignment="Center" FontSize="48"/>
+        <PasswordBox HorizontalAlignment="Center" Height="98" Margin="0,550,0,0" VerticalAlignment="Top" Width="618" Background="#FF333333" PlaceholderText="Passwort" FontSize="48"/>
+        <PasswordBox HorizontalAlignment="Center" Height="102" Margin="0,356,0,0" VerticalAlignment="Top" Width="618" Background="#FF333333" PlaceholderText="Benutzername" FontSize="48"/>
+        <TextBlock HorizontalAlignment="Left" Height="136" Margin="385,150,0,0" Text="Vertretungspllan Gymnasium Herzogenaurach" TextWrapping="Wrap" VerticalAlignment="Top" Width="796" SelectionChanged="TextBlock_SelectionChanged" FontSize="36"/>
 
     </Grid>
 </Page>

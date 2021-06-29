@@ -4,8 +4,8 @@ Baiert auf den Api's von Phillip Dormann.
 
 Entwickelt von Mic. R.
 
-Programmiersprache: unklar, im späteren Verlauf angegeben
+Programmiersprache: C## und HTML
 
-Fortschritt: 2%
+Fortschritt: 4%
 
 Was gerade entwickelt wird: Benutzeroberfläche

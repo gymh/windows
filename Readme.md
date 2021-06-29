@@ -6,6 +6,6 @@ Entwickelt von Mic. R.
 
 Programmiersprache: unklar, im späteren Verlauf angegeben
 
-Fortschritt: 0,2%
+Fortschritt: 2%
 
 Was gerade entwickelt wird: Benutzeroberfläche

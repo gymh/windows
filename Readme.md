@@ -6,6 +6,6 @@ Entwickelt von Mic. R.
 
 Programmiersprache: C## und HTML
 
-Fortschritt: 4%
+Fortschritt: 6%
 
 Was gerade entwickelt wird: Benutzeroberfläche

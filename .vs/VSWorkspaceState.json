@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Userinterface"
+    "\\Code",
+    "\\Code\\Vertretungsplan-Gymherzo",
+    "\\Code\\Vertretungsplan-Gymherzo\\Vertretuungsplan-Gymherzo"
   ],
+  "SelectedNode": "\\Code\\Vertretungsplan-Gymherzo\\Vertretuungsplan-Gymherzo\\MainPage.xaml",
   "PreviewInSolutionExplorer": false
 }

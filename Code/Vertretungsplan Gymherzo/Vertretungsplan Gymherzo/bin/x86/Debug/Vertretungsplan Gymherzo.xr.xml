@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Vertretungsplan_Gymherzo.Features.Vertretungsplan.Tage.Dienstag" />
+    <RootType FullName="Vertretungsplan_Gymherzo.Features.Vertretungsplan.Tage.Donnerstag" />
+    <RootType FullName="Vertretungsplan_Gymherzo.Features.Vertretungsplan.Tage.Freitag" />
+    <RootType FullName="Vertretungsplan_Gymherzo.Features.Vertretungsplan.Tage.Mittwoch" />
+    <RootType FullName="Windows.UI.Xaml.Controls.WebView">
+      <RootProperty Name="Source" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Vertretungsplan_Gymherzo.Features.Vertretungsplan.BlankPage2" />
+    <RootType FullName="Vertretungsplan_Gymherzo.Features.Vertretungsplan.BlankPage1" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.FlyoutBase">
+      <RootMethod Name="GetAttachedFlyout" />
+      <RootMethod Name="SetAttachedFlyout" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.MenuFlyout" />
+    <RootType FullName="Windows.UI.Xaml.Controls.AutoSuggestBox">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Microsoft.UI.Xaml.Controls.TreeView" />
+    <RootType FullName="Vertretungsplan_Gymherzo.Features.Übersicht" />
+    <RootType FullName="Vertretungsplan_Gymherzo.MainPage" />
+  </Roots.RootTypes>
+</Roots>

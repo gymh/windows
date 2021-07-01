@@ -5,7 +5,7 @@ Basiert auf den Api's von Philipp Dormann.
 
 Entwickelt von Mic. R.
 
-Programmiersprache: C## und HTML
+Programmiersprache: C# und XAML -> UWP
 
 Fortschritt: 6%
 

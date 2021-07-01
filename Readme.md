@@ -1,6 +1,7 @@
-Windows-Anwendung für das Gymnasium Herzogenaurach.
+# @gymh/windows
+> Windows-Anwendung für das Gymnasium Herzogenaurach.
 
-Basiert auf den Api's von Phillip Dormann.
+Basiert auf den Api's von Philipp Dormann.
 
 Entwickelt von Mic. R.
 

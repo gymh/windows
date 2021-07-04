@@ -1,0 +1,32 @@
+﻿<Page
+    x:Class="Gymnasium_Herzogenaurach.Overview"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Gymnasium_Herzogenaurach"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="1800" Height="1000">
+
+    <Grid Width="1800" Height="1000">
+        <HyperlinkButton Content="HyperlinkButton" Height="237" Margin="703,485,0,0" VerticalAlignment="Top" Width="246" Background="#FF938E8E"/>
+        <HyperlinkButton Content="" Height="237" Margin="282,125,0,0" VerticalAlignment="Top" Width="246">
+            <HyperlinkButton.Foreground>
+                <ImageBrush Stretch="Uniform" ImageSource="/Assets/Stundenplan.png"/>
+            </HyperlinkButton.Foreground>
+            <HyperlinkButton.FocusVisualSecondaryBrush>
+                <ImageBrush ImageSource="/Assets/Stundenplan.png" Stretch="Uniform"/>
+            </HyperlinkButton.FocusVisualSecondaryBrush>
+            <HyperlinkButton.BorderBrush>
+                <ImageBrush ImageSource="/Assets/Stundenplan.png" Stretch="Uniform"/>
+            </HyperlinkButton.BorderBrush>
+            <HyperlinkButton.Background>
+                <ImageBrush ImageSource="/Assets/Stundenplan.png" Stretch="Uniform"/>
+            </HyperlinkButton.Background>
+        </HyperlinkButton>
+        <HyperlinkButton Content="HyperlinkButton" Height="237" Margin="702,130,0,0" Width="246" VerticalAlignment="Top" Background="#FF938E8E"/>
+        <HyperlinkButton Content="HyperlinkButton" Height="237" Margin="1121,130,0,0" Width="246" VerticalAlignment="Top" Background="#FF938E8E"/>
+
+    </Grid>
+</Page>
+

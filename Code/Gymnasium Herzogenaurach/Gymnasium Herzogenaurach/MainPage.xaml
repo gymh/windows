@@ -12,7 +12,7 @@
         <Image Source="/Assets/gymh.png" Margin="793,-38,793,764" />
         <TextBlock Margin="0,236,2,691" Text="Gymnasium Herzogenaurach" TextWrapping="Wrap" FontSize="48" TextAlignment="Center" LineHeight="12" RenderTransformOrigin="-0.168,0.791"/>
         <PasswordBox Margin="569,428,563,508" PlaceholderText="Benutzername" FontSize="36"/>
-        <PasswordBox Margin="569,558,563,378" PlaceholderText="Passwort" FontSize="36"/>
+        <PasswordBox Margin="569,558,563,378" PlaceholderText="Passwort" FontSize="36" PasswordChanged="PasswordBox_PasswordChanged"/>
         <Button Content="Login" Margin="843,698,843,254" VerticalAlignment="Stretch" FontSize="20" HorizontalAlignment="Stretch"/>
         <HyperlinkButton Content="Beta-Zugang"
                  Click="HyperlinkButton_Click"

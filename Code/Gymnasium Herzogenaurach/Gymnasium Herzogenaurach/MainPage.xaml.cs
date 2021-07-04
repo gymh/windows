@@ -35,5 +35,12 @@ namespace Gymnasium_Herzogenaurach
         {
             this.Frame.Navigate(typeof(Overview));
         }
+
+        private void PasswordBox_PasswordChanged(object sender, RoutedEventArgs e)
+        {
+            PasswordBox pwdBox = new PasswordBox();
+            pwdBox.Password = "Open Sesame!";
+
+        }
     }
 }

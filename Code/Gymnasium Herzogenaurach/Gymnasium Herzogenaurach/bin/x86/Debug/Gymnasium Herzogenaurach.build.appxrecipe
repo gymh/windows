@@ -221,6 +221,9 @@
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\Assets\Stundenplan.png">
+      <PackagePath>Assets\Stundenplan.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>

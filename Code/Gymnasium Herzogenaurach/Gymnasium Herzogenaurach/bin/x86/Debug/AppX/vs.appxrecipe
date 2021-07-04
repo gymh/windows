@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-01T16:30:35.927</Modified>
+      <Modified>2021-07-04T18:14:03.276</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\bin\x86\Debug\Gymnasium Herzogenaurach.exe">
       <PackagePath>entrypoint\Gymnasium Herzogenaurach.exe</PackagePath>
-      <Modified>2021-07-01T16:30:35.327</Modified>
+      <Modified>2021-07-04T18:14:02.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -280,6 +280,10 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-07-01T15:20:58.486</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\Assets\Stundenplan.png">
+      <PackagePath>Assets\Stundenplan.png</PackagePath>
+      <Modified>2021-07-04T18:10:59.626</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -335,19 +339,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\bin\x86\Debug\Gymnasium Herzogenaurach.xr.xml">
       <PackagePath>Gymnasium Herzogenaurach.xr.xml</PackagePath>
-      <Modified>2021-07-01T16:30:35.183</Modified>
+      <Modified>2021-07-04T18:07:06.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-07-01T16:30:35.189</Modified>
+      <Modified>2021-07-04T18:12:37.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-07-01T16:30:35.190</Modified>
+      <Modified>2021-07-04T18:12:37.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\bin\x86\Debug\Overview.xbf">
       <PackagePath>Overview.xbf</PackagePath>
-      <Modified>2021-07-01T16:30:35.190</Modified>
+      <Modified>2021-07-04T18:14:02.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -355,11 +359,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-07-01T16:15:18.142</Modified>
+      <Modified>2021-07-04T18:04:39.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\michi\source\repos\Gymnasium Herzogenaurach\Gymnasium Herzogenaurach\bin\x86\Debug\Core\Gymnasium Herzogenaurach.exe">
       <PackagePath>Gymnasium Herzogenaurach.exe</PackagePath>
-      <Modified>2021-07-01T16:30:35.923</Modified>
+      <Modified>2021-07-04T18:14:03.272</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

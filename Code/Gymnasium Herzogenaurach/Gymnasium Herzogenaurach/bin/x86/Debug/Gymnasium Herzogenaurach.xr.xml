@@ -31,6 +31,7 @@
       <RootProperty Name="Margin" />
       <RootProperty Name="PlaceholderText" />
       <RootProperty Name="FontSize" />
+      <RootEvent Name="PasswordChanged" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Button">
       <RootProperty Name="Content" />
@@ -44,9 +45,19 @@
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Margin" />
       <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="FocusVisualSecondaryBrush" />
+      <RootProperty Name="BorderBrush" />
       <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="Gymnasium_Herzogenaurach.MainPage" />
+    <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
+      <RootProperty Name="Stretch" />
+      <RootProperty Name="ImageSource" />
+    </RootType>
     <RootType FullName="Gymnasium_Herzogenaurach.Overview" />
   </Roots.RootTypes>
 </Roots>

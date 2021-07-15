@@ -6,7 +6,10 @@ Basiert auf den Api's von Philipp Dormann.
 Entwickelt von Mic. R.
 
 Programmiersprache: C# und XAML -> UWP
+Benutzeroberfläche: PHP
 
-Fortschritt: 6%
+> noch in Planung
 
-Was gerade entwickelt wird: Benutzeroberfläche
+Fortschritt: 0%
+
+Was gerade entwickelt wird: Konzept
